@@ -1,0 +1,35 @@
+HTML: 
+
+10:18 PM 1/14/2020 :
+ 
+<form> 
+
+<input type='text' name='firstname'>
+<input type='email' name='email'>
+<input type='password' name='password'>
+<input type='date' name='birthday'>
+
+** radio and checkbox need to have name and value
+<input type='radio' name='gender' value='Male'>
+<input type='checkbox' name='cat' value='cat'>
+
+** option need to have name and value
+<select name='cars'>
+
+<option value='volve' ></option>
+</select>
+
+<input type='submit' value='Register!'>
+<input type='reset' name='cat'>
+
+</form>
+===============================================================
+10:26 PM 1/14/2020
+<div></div>  ** use more to make box in css
+<span></span> ** it is inline element
+
+=================================================
+HTML Vs HTML5
+
+How is different?
+- HTML5 
