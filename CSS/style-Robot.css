@@ -7,12 +7,17 @@
 .div1 button {
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
-	color: rgb(218, 127, 142);
+	color: rgb(255, 255, 255);
 	border-bottom: 2px solid   rgb(160, 217, 221) ;
 	border-right: 2px solid   plum ;
 	border-left: 2px solid   plum ;
 	box-shadow: 2px #573d4f;
 	font-size: 2em;
+	background-color: black;
+}
+.div1 button:hover{
+	opacity: 0.8;
+	cursor: pointer;
 }
 
 .robots {
