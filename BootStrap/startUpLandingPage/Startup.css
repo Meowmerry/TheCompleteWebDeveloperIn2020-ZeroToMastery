@@ -19,6 +19,9 @@ hr {
   border-width: 3px;
   max-width: 65px;
 }
+.buffer {
+  height: 15rem;
+}
 
 .btn {
   font-weight: 700;
